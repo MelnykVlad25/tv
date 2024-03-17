@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
+#EXTINF:-1,https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
 http://ott.inmart.tv:8081/35/index.m3u8
 #EXTINF:0,http://ott.inmart.tv:8081/54/index.m3u8
 http://ott.inmart.tv:8081/19/index.m3u8
