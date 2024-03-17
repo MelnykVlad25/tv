@@ -1,27 +1,27 @@
-#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz" tvg-shift="+3" abs="true"
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="Общественные",Первый (HD ready)
+#EXTM3U
+#EXTINF:-1,Перший
 https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
-#EXTINF:0,Канал 2
+#EXTINF:-1,Канал 2
 http://ott.inmart.tv:8081/35/index.m3u8
-#EXTINF:0,Канал 3
+#EXTINF:-1,Канал 3
 http://ott.inmart.tv:8081/54/index.m3u8
-#EXTINF:0,Канал 4
+#EXTINF:-1,Канал 4
 http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:0,Канал 5
+#EXTINF:-1,Канал 5
 https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
-#EXTINF:0,Канал 6
+#EXTINF:-1,Канал 6
 https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:0,Канал 7
+#EXTINF:-1,Канал 7
 https://cdn.1tvcrimea.ru/switcher.m3u8
-#EXTINF:0,Канал 8
+#EXTINF:-1,Канал 8
 https://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:0,Канал 9
+#EXTINF:-1,Канал 9
 http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
-#EXTINF:0,Канал 10
+#EXTINF:-1,Канал 10
 http://stv92-live.cdnvideo.ru/stv92/stv92/playlist.m3u8
-#EXTINF:0,Канал 11
+#EXTINF:-1,Канал 11
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:0,Канал 12
+#EXTINF:-1,Канал 12
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:0,Канал 13
+#EXTINF:-1,Канал 13
 https://simf.1tvcrimea.ru/simferopol24.m3u8
